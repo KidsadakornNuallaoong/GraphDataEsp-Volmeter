@@ -1,0 +1,66 @@
+[
+  {
+    "Device": "ESP32-P1",
+    "Current": 588.8806152,
+    "Power": 368.0503845,
+    "Currency": 3.578267574,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:16 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 612.8407593,
+    "Power": 383.0254822,
+    "Currency": 3.723858833,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:17 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 588.8806152,
+    "Power": 368.0503845,
+    "Currency": 3.578267574,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:19 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 591.255127,
+    "Power": 369.5344543,
+    "Currency": 3.59269619,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:20 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 588.8806152,
+    "Power": 368.0503845,
+    "Currency": 3.578267574,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:22 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 615.2630615,
+    "Power": 384.5394287,
+    "Currency": 3.738577843,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:23 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 608.010498,
+    "Power": 380.0065613,
+    "Currency": 3.694508314,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:24 PM"
+  },
+  {
+    "Device": "ESP32-P1",
+    "Current": 596.0184937,
+    "Power": 372.5115662,
+    "Currency": 3.621640444,
+    "date": "10/17/2023",
+    "timeStamp": "5:14:26 PM"
+  }
+]
